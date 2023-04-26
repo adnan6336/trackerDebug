@@ -182,7 +182,6 @@ HAL_GPIO_WritePin(LED_2_GPIO_Port, LED_2_Pin, 0);
 //	  HAL_Delay(5000);
 //	  HAL_GPIO_WritePin(RELAY_GPIO_Port, RELAY_Pin, 0);
 //	  HAL_Delay(2000);
-
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
